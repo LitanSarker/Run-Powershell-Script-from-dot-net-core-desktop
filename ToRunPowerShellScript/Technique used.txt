@@ -1,0 +1,14 @@
+Install the following 
+-------------------------------------
+Microsoft.PowerShell.SDK
+Microsoft.SqlServer.Scripting
+System.Management.Automation
+
+
+Run this code in Package Manager Console / in your powershell or cmd
+--------------------------------------------------------------
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+
+
